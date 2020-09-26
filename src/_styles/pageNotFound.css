@@ -1,0 +1,21 @@
+#notfound {
+  position: relative;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+
+#notfound h1 {
+  color: white;
+}
+
+#notfound img {
+  position: absolute;
+  width: 60vw;
+}
+
+#notfound div {
+  position: relative;
+}

@@ -1,0 +1,26 @@
+#about-un_goals > a {
+    margin: 10px;
+    width: 15%;
+    display: inline-block;
+}
+
+#about-un_goals > a:hover {
+    opacity: 0.8;
+}
+
+#about-un_goals img {
+    width: 100%;
+}
+
+.about-qna > p {
+    text-align: left !important;
+}
+
+.about-qna p:nth-child(1) {
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+.about-qna p:nth-child(2) {
+    margin-top: 0;
+}

@@ -1,1 +1,1 @@
-# fuelfighter-frontend
+This repo is the frontend source code for https://www.fuelfighter.no/
